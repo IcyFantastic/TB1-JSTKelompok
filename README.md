@@ -5,8 +5,8 @@ Mata kuliah Jaringan Syaraf Tiruan (IT6053), FTI UKDW.
 ## Anggota dan kontribusi
 | Nama | NIM | Kontribusi |
 |---|---|---|
-| Hansel Ivano Supratman | 71231039 | *(isi: mis. implementasi Perceptron, eksperimen, laporan bagian 1-4)* |
-| Nicolas Krisna Prawirajati | 71231019 | *(isi: mis. implementasi ADALINE, visualisasi, laporan bagian 5-8)* |
+| Hansel Ivano Supratman | 71231039 |  |
+| Nicolas Krisna Prawirajati | 71231019 |  |
 
 ## Struktur dan tautan berkas
 | Berkas | Isi |
@@ -61,6 +61,6 @@ Versi yang dipakai: Python 3.12.3, numpy 2.4.4, pandas 3.0.2, matplotlib 3.10.8,
 Kode diadaptasi dari struktur `fit/net_input/predict` pada dokumentasi mlxtend; perubahan dijelaskan di notebook dan laporan bagian 3.
 
 ## Bantuan AI dan verifikasi
-*(Sesuaikan dengan yang sebenarnya dilakukan kelompok.)* Perbaikan notebook, laporan, dan README dibantu Claude (Anthropic). Verifikasi: seluruh notebook dijalankan ulang dari awal, perhitungan manual dicocokkan otomatis dengan kode (`assert`), dan semua angka laporan diambil dari keluaran notebook.
+Perbaikan notebook, laporan, dan README dibantu Claude (Anthropic). Verifikasi: seluruh notebook dijalankan ulang dari awal, perhitungan manual dicocokkan otomatis dengan kode (`assert`), dan semua angka laporan diambil dari keluaran notebook.
 
-**URL repository / commit hash versi dinilai:** *(isi setelah push)*
+**URL repository / commit hash versi dinilai:** 
