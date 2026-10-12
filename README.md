@@ -59,8 +59,3 @@ Versi yang dipakai: Python 3.12.3, numpy 2.4.4, pandas 3.0.2, matplotlib 3.10.8,
 - Moallem, P., Razmjooy, N., & Ashourian, M. (2013). Computer vision-based potato defect detection using neural networks and support vector machine. International Journal of Robotics and Automation, 28(2), 137–145.
 
 Kode diadaptasi dari struktur `fit/net_input/predict` pada dokumentasi mlxtend; perubahan dijelaskan di notebook dan laporan bagian 3.
-
-## Bantuan AI dan verifikasi
-*(Sesuaikan dengan yang sebenarnya dilakukan kelompok.)* Perbaikan notebook, laporan, dan README dibantu Claude (Anthropic). Verifikasi: seluruh notebook dijalankan ulang dari awal, perhitungan manual dicocokkan otomatis dengan kode (`assert`), dan semua angka laporan diambil dari keluaran notebook.
-
-**URL repository / commit hash versi dinilai:** *(isi setelah push)*
