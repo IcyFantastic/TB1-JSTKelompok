@@ -53,6 +53,10 @@ Versi yang dipakai: Python 3.12.3, numpy 2.4.4, pandas 3.0.2, matplotlib 3.10.8,
 - Rosenblatt, F. (1958). The perceptron. *Psychological Review, 65*(6), 386–408. https://doi.org/10.1037/h0042519
 - Widrow, B., & Hoff, M. E. (1960). Adaptive switching circuits. *IRE WESCON Convention Record, Part 4*, 96–104. https://isl.stanford.edu/~widrow/papers/c1960adaptiveswitching.pdf
 - Raschka, S. (tanpa tahun). Adaline: Adaptive Linear Neuron Classifier. mlxtend. https://rasbt.github.io/mlxtend/user_guide/classifier/Adaline/ (diakses 6 Oktober 2026)
+- Raschka, S., & Mirjalili, V. (2019). Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 (3rd ed.). Packt Publishing.
+- Wang, C., & Xiao, Z. (2021). Potato surface defect detection based on deep transfer learning. Agriculture, 11(9), 863. https://doi.org/10.3390/agriculture11090863
+- Su, Q., Kondo, N., Al Riza, D. F., & Habaragamuwa, H. (2020). Potato quality grading based on depth imaging and convolutional neural network. Journal of Food Quality, 2020, 8815896. https://doi.org/10.1155/2020/8815896
+- Moallem, P., Razmjooy, N., & Ashourian, M. (2013). Computer vision-based potato defect detection using neural networks and support vector machine. International Journal of Robotics and Automation, 28(2), 137–145.
 
 Kode diadaptasi dari struktur `fit/net_input/predict` pada dokumentasi mlxtend; perubahan dijelaskan di notebook dan laporan bagian 3.
 
