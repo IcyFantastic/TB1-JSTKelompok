@@ -1,5 +1,5 @@
 # TB1-JSTKelompok
-**Analisis dan Implementasi Klasifikasi Kualitas Kentang Menggunakan Perceptron dan ADALINE**  
+**Analisis dan Implementasi Klasifikasi Kualitas Keripik Kentang Menggunakan Perceptron dan ADALINE**  
 Mata kuliah Jaringan Syaraf Tiruan (IT6053), FTI UKDW.
 
 ## Anggota dan kontribusi
@@ -20,7 +20,7 @@ Mata kuliah Jaringan Syaraf Tiruan (IT6053), FTI UKDW.
 | [figures/](figures/) | Gambar visualisasi yang dipakai laporan dan presentasi |
 
 ## Kasus dan data
-Melanjutkan Tugas 1 (deteksi kualitas kentang). Perceptron/ADALINE memerlukan masukan numerik, sehingga setiap citra diringkas menjadi rata-rata intensitas kanal merah dan hijau.
+Melanjutkan Tugas 1 (deteksi kualitas keripik kentang). Perceptron/ADALINE memerlukan masukan numerik, sehingga setiap citra diringkas menjadi rata-rata intensitas kanal merah dan hijau.
 
 | Kolom | Makna |
 |---|---|
