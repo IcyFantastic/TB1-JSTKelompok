@@ -62,4 +62,4 @@ Kode diadaptasi dari struktur `fit/net_input/predict` pada dokumentasi mlxtend; 
 ## Bantuan AI dan verifikasi
 Perbaikan notebook, laporan, dan README dibantu Claude (Anthropic). Verifikasi: seluruh notebook dijalankan ulang dari awal, perhitungan manual dicocokkan otomatis dengan kode (`assert`), dan semua angka laporan diambil dari keluaran notebook.
 
-**URL repository / commit hash versi dinilai:**
+**URL repository / commit hash versi dinilai:** https://github.com/IcyFantastic/TB1-JSTKelompok / d790d67
